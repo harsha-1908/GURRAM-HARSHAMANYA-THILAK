@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1></h1>
+  </head>
+  <body>
+      <h1 class="title">Register yourself</h1>
+      <p>Your data is safe with us. We are collecting this data to know more about you.knowing you will help us.</p>
+      <h1>Fill this form</h1>
+      <p>first name:</p1>
+      <input type="text" placeholder=>
+      <p>last name:</p1>
+      <input type="text" placeholder=>
+      <p>Email Id:</p1>
+      <input type="text" placeholder=>
+      <p>Contact number:</p1>
+      <input type="text" placeholder=>
+      <p>Password:</p1>
+      <input type="text" placeholder=>
+      <p>Date of birth</p1>
+      <input type="text" placeholder=>
+      <p>Age</p1>
+      <input type="text" placeholder=>
+      <p>Your branch: </p1>
+      <select name="branch" id="branch">
+        <option value="HTML and CSS." selected>HTML and CSS.</option>
+        <option value="Python.">Python.</option>
+        <option value="Java">Java</option>
+        <option value="Java Script">Java Script</option>
+        <option value="C++">C++</option>
+        <option value="C">C</option>
+      </select>
+      <p>Your current status in programming :</p1>
+        <br><input type="radio" id="Status" name="Status" value="Basic"/>  Basic   
+        <br><input type="radio" id="Status" name="Status" value="Intermediate"/> Intermediate 
+        <br><input type="radio" id="Status" name="Status" value="Expert"/> Expert  <br/> 
+
+  </body>
+</html>
